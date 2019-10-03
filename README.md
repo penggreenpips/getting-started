@@ -115,3 +115,8 @@ You have contributed to an open source project, and this `getting-started` proje
 ## Next up!
 
 If you enjoyed this tutorial, you should try your hand at other [Approachable Open Source](https://github.com/approachable-io) projects. Specifically, we're looking for help on our [software-interview-prep](https://github.com/approachable-io/software-interview-prep) repository. We know the guide still needs work, so we'd love for you to give that a try and give us feedback!
+
+## Want to have even more fun with code?
+This project is supported by [Code Championship](https://www.codechampionship.com) - Competitive Computer Coding.
+
+You can build your own bot to go head to head against others here: [codechampionship.com/code](https://www.codechampionship.com/code/)
